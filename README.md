@@ -2,7 +2,11 @@
 
 This web app was made to showcase the culmination of my developer skills and to allow potential employers and interested people alike to see what I'm about!
 
-## To run this app, clone the file and type npm start into the console. To see a live version of the app, check the following link: https://csandu123.github.io/MyPortfolio/
+## To run this app locally, simply clone the file and type npm install followed by npm start into the console. 
+
+### To see a live version of the app, check the following link:
+
+https://csandu123.github.io/MyPortfolio/
 
 Here are some screenshots of the application: 
 ![Screenshot (61)](https://user-images.githubusercontent.com/107908345/210041010-97a9d4e2-30f7-4cce-a1a2-e748a139b906.png)
