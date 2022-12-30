@@ -1,28 +1,19 @@
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`
-/*
-=============== 
-Variables
-===============
-*/
+
 :root {
   --primary-light: #b0edfd;
   /* Primary Color */
   --primary: #61DBFB;
+  --nav-height: 61px;
   --primary-dark: #316e7e;
   --border: 1px solid #61DBFB;
   --transition: all 0.3s linear;
-  --nav-height: 61px;
-  --min-footer-height: 11vh;
+  --min-footer-height: 9vh;
   --card-height: 30rem;
 }
 
-/*
-=============== 
-Global Styles
-===============
-*/
 body {
   background: ${({ theme }) => theme.background};
   color: ${({ theme }) => theme.color};

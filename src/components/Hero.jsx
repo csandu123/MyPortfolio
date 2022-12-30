@@ -31,7 +31,6 @@ const StyledHero = styled.header`
     z-index: -2;
   }
 
-  /* Overlay for contrast */
   &::after {
     content: "";
     position: absolute;
