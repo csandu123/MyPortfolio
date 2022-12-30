@@ -5,10 +5,9 @@ import {
     FaBootstrap,
     FaReact,
     FaGitAlt,
-    FaGithubSquare,
     FaLink,
   } from "react-icons/fa";
-  import { SiJavascript, SiStyledcomponents, SiRedux } from "react-icons/si";
+  import { SiJavascript } from "react-icons/si";
   
   import Logo from "./images/logo.svg";
   
@@ -53,23 +52,8 @@ import {
     },
     {
       id: 6,
-      skill: <SiStyledcomponents className="display-4" />,
-      name: "Styled Components",
-    },
-    {
-      id: 7,
-      skill: <SiRedux className="display-4" />,
-      name: "Redux",
-    },
-    {
-      id: 8,
       skill: <FaGitAlt className="display-4" />,
       name: "Git",
-    },
-    {
-      id: 9,
-      skill: <FaGithubSquare className="display-4" />,
-      name: "GitHub",
     },
   ];
   
